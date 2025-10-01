@@ -51,7 +51,7 @@ console.log(Math.floor(Date.now()/1000));
 
 // *** '.toLocalString' k andar aap jo define krte h woh ek Object define krte hai
 
-// ++++++++++++++++++++ ^^^ +++++++++++++++++++++++++++
+// ++++++++++++++++++++  +++++++++++++++++++++++++++
 // newDate.toLocaleString('default', {
 //     weekday: "long",
     
