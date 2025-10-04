@@ -33,15 +33,29 @@
 // handleObject(user)
 
 
-
 //++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-// Passing Array to a Function and Returns its Second Vaue !!
 
- const myNewArray = [100, 200, 400, 700]
+// Passing Array to a function and returns it's second value !!!
+// const myArray = [100, 200, 400, 700, 2000, 4000, 8000 ]
+// function myFunction(ReceiveArr){
+//      return ReceiveArr[4]
+// }
+//   console.log(myFunction(myArray));
 
- function returnSecondValue (getArray){
-    return getArray[1]
- }
+// #########################################################################
 
- console.log(returnSecondValue(myNewArray));
+
+//+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
  
+
+
+
+
+
+  
+
+
+ 
+
+
